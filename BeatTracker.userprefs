@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BeatTracker.cs">
     <Files>
-      <File FileName="Assets/BeatTracker.cs" Line="52" Column="1" />
+      <File FileName="Assets/BeatTracker.cs" Line="60" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
